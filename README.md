@@ -6,7 +6,7 @@ A farming and preparation kit for mages in WoW: Forever. Formerly Mage Forever. 
 
 The home window lists every section with its live state: what is left to buy, your next preparation step, unread scrolls, the running farm session and the loot filter.
 
-**Loot filter.** Drag an item into the "Never loot" list and it stays on the corpse from then on. The "What dropped" list shows everything you have looted, with vendor prices and the mob it came from. You can also skip all grey items. Hold Shift to loot by hand, and undo any change for 15 seconds. Open it from the home window or with `/mfloot`.
+**Loot filter.** Drag an item into the "Never loot" list and the addon throws it away as soon as you loot it, so the corpse stops sparkling. Each item thrown away is noted in the chat. Rare and better items are never thrown away; they stay on the corpse. The "What dropped" list shows everything you have looted except quest items, with vendor prices and the mob it came from. You can also skip all grey items. Hold Shift to loot by hand, and undo any change for 15 seconds. Open it from the home window or with `/mfloot`.
 
 **Shopping.** Set a target for each supply. At the auction house, see what is missing from your bags and buy it with one button that shows the amount and the price. If the top rank is too expensive, compare the unit price of each rank and pick a lower one.
 
