@@ -10,7 +10,7 @@ The home window lists every section with its live state: what is left to buy, yo
 
 **Shopping.** Set a target for each supply. At the auction house, see what is missing from your bags and buy it with one button that shows the amount and the price. If the top rank is too expensive, compare the unit price of each rank and pick a lower one.
 
-**Farm preparation.** Open `/mfbuff` to check food, water, your mana gem, armor and class buffs. Press **Auto Buff**, or Shift+F, for the next step. Water is offered with food when your mana runs low.
+**Farm preparation.** Open `/mfbuff` to check food, water, your mana gem, armor and class buffs. Shift+F casts your own buffs, conjures food, water and a mana gem, then sits you down to rest, so it works as a quick rebuff or just a rest. Scrolls, oils, elixirs and buff food stay on the **Auto Buff** button. Water is offered with food when your mana runs low.
 
 **Scrolls.** Open `/mfscroll` to see which scrolls in your bags you can decipher, and read them one press at a time.
 
