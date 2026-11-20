@@ -2,23 +2,22 @@
 
 ![Home window](screenshots/1-home.png)
 
-A farming and preparation kit for mages in WoW: Forever. Formerly Mage Forever. Open it with `/mf` or the mana crystal on the minimap.
+Everything a farming mage does between pulls, on one key and a few windows. Made for WoW: Forever. Open it with `/mf` or the mana crystal on the minimap. Formerly Mage Forever.
 
-The home window lists every section with its live state: what is left to buy, your next preparation step, unread scrolls, the running farm session and the loot filter.
+**Stop deleting junk by hand.** Profession quest scrolls, intercepted crates that no vendor will buy, and other junk keep landing in your bags, and each one has to be dragged out and deleted. Tick "Leave artisan crates and orders" in the loot filter, or put any item on its "Never loot" list once. From then on the addon loots it last and throws it away for you with your next key press or click (the game allows deleting only on a press), and the corpse stops sparkling. Every item thrown away is noted in the chat. Rare and better items are never thrown away, and Shift lets you loot by hand. You can also skip all grey items. Open the filter with `/mfloot`.
 
-**Loot filter.** Drag an item into the "Never loot" list and the addon throws it away as soon as you loot it, so the corpse stops sparkling. Each item thrown away is noted in the chat. Rare and better items are never thrown away; they stay on the corpse. The "What dropped" list shows everything you have looted except quest items, with vendor prices and the mob it came from. You can also skip all grey items. Hold Shift to loot by hand, and undo any change for 15 seconds. Open it from the home window or with `/mfloot`.
+**One key between pulls.** Press Shift+F. It casts your own buffs first and conjures water, then sits you down to drink until you are full. Once you are rested, the same key goes on with scrolls, oils, elixirs and buff food, and tops up your food and water last. Out of mana for water, it offers Evocation or your mana gem instead of a meal that brings no mana back.
 
-**Shopping.** Set a target for each supply. At the auction house, see what is missing from your bags and buy it with one button that shows the amount and the price. If the top rank is too expensive, compare the unit price of each rank and pick a lower one.
+**Consumables in one click.** Set how many of each supply you want to carry. At the auction house, the addon shows what is missing from your bags and buys it with one button that shows the amount and the price. If the top rank is too expensive, compare unit prices and drop a rank.
 
-**Farm preparation.** Open `/mfbuff` to check food, water, your mana gem, armor and class buffs. Shift+F casts your own buffs, conjures food, water and a mana gem, then sits you down to rest, so it works as a quick rebuff or just a rest. Scrolls, oils, elixirs and buff food stay on the **Auto Buff** button. Water is offered with food when your mana runs low.
+**Also inside**
 
-**Scrolls.** Open `/mfscroll` to see which scrolls in your bags you can decipher, and read them one press at a time.
-
-**Farm sessions.** Open `/mf farm` to start or finish a session: profit, wallet, XP gained, hourly rates and the observed respawn time of a tracked enemy.
-
-**Income per hour.** A small panel above the chat shows XP, gold and looted items per hour over your last 60 minutes of play, with an XP bar and the time left to the next level. Turn it on or off in the Farm window.
-
-**World map zoom.** Scroll the mouse wheel over the world map to zoom toward the cursor, and drag to move around.
+- **Home window.** Every section with its live state: what is left to buy, your next preparation step, unread scrolls, the farm session and the loot filter.
+- **Scrolls.** See which scrolls in your bags you can decipher and read them one press at a time (`/mfscroll`).
+- **Farm sessions.** Profit, XP and hourly rates, plus the respawn time of a tracked enemy (`/mf farm`).
+- **Income per hour.** A small panel above the chat with XP, gold and loot per hour and the time to your next level.
+- **Drop log.** The loot filter's "What dropped" list shows recent loot with vendor prices and the mob it came from.
+- **World map zoom.** Scroll the mouse wheel over the map to zoom toward the cursor, and drag to move.
 
 English and Russian.
 
